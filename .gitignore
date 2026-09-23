@@ -1,0 +1,13 @@
+# data (distributed on request, not committed)
+data/Mixed/
+
+# outputs
+figures/*.png
+results/*.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+/tmp/

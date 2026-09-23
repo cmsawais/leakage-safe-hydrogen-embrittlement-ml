@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Leakage-Safe Machine Learning for Hydrogen Embrittlement Detection in 316L Stainless Steel: A Region-Held-Out Evaluation of Texture and Deep Features in SEM Micrographs"
+authors:
+  - family-names: Awais
+    given-names: Muhammad
+    email: muhammad.awais@phd.unipd.it
+    affiliation: "Dipartimento di Fisica e Astronomia G. Galilei, Università di Padova, Italy; Institute of Physics, Bahauddin Zakariya University, Multan, Pakistan"
+  - family-names: Yaseen
+    given-names: Muhammad
+    affiliation: "Institute of Physics, Bahauddin Zakariya University, Multan, Pakistan"
+  - family-names: Shakoor
+    given-names: Abdul
+    affiliation: "Institute of Physics, Bahauddin Zakariya University, Multan, Pakistan"
+  - family-names: Niaz
+    given-names: Niaz Ahmed
+    affiliation: "Institute of Physics, Bahauddin Zakariya University, Multan, Pakistan"
+  - family-names: Zia
+    given-names: Huria
+    affiliation: "Institute of Physics, Bahauddin Zakariya University, Multan, Pakistan"
+  - family-names: Shakoor
+    given-names: Muhammad Zain
+    affiliation: "Institute of Physics, Bahauddin Zakariya University, Multan, Pakistan"
+year: 2026
+type: software
+license: MIT
